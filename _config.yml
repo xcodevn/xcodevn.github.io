@@ -1,3 +1,4 @@
 name: My blog
 markdown: redcarpet
 pygments: true
+comments: true
