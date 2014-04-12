@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Dịch sách SICP ra tiếng Việt"
+date:   2014-04-12 22:40:37
+categories: SICP book Vietnamese
+---
+
+Đây là dự án mà tôi đã ấp ủ từ lâu. Structure and Interpretation of Computer Programs ([SICP](http://mitpress.mit.edu/sicp/)) là quyển sách nhập môn Khoa học máy tính rất hay. Đây không phải là một quyển sách nhập môn hời hợt nhằm chỉ ta cách lập trình căn bản. Sách dẫn người đọc tới những khía cạnh nền tảng của lập trình và tính toán. Những ai muốn trở thành một nhà khoa học máy tính thực thụ không thể nào bỏ qua được quyển sách này.
+
+Mong muốn của tôi là sách đến được với nhiều độc giả Việt nhất, để mọi người được tiếp cận với một quyển sách giáo khoa về Khoa học máy tính nổi tiếng thế giới.
+
+Mục tiêu của dự án là một phiên bản Việt hóa, định dạng html cho sách. Dự án được fork từ [https://github.com/sarabander/sicp](https://github.com/sarabander/sicp).
+
+Bản dịch ắt sẽ có nhiều hạn chế vì tôi chỉ có thể dịch lại theo những gì tôi hiểu khi đọc sách. Nói cách khác, nguyên tác sẽ bị méo mó để có thể _fit_ với kiến thức trong đầu tôi. Phiên bản Việt hóa còn bị _méo mó_ bởi khả năng hạn chế của tôi khi thể hiện những gì mình hiểu được.
+
+Phiên bản nháp hiện thời: [http://xcodevn.github.io/sicp/](http://xcodevn.github.io/sicp/)
+
+
+
+
+
