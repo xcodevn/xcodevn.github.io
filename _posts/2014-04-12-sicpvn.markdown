@@ -2,7 +2,7 @@
 layout: post
 title:  "Dịch sách SICP ra tiếng Việt"
 date:   2014-04-12 22:40:37
-categories: SICP book Vietnamese
+categories: book Vietnamese sicp
 ---
 
 Đây là dự án mà tôi đã ấp ủ từ lâu. Structure and Interpretation of Computer Programs ([SICP](http://mitpress.mit.edu/sicp/)) là quyển sách nhập môn Khoa học máy tính rất hay. Đây không phải là một quyển sách nhập môn hời hợt nhằm chỉ ta cách lập trình căn bản. Sách dẫn người đọc tới những khía cạnh nền tảng của lập trình và tính toán. Những ai muốn trở thành một nhà khoa học máy tính thực thụ không thể nào bỏ qua được quyển sách này.
